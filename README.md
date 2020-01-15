@@ -4,8 +4,6 @@ Register on acme-test.com and reset the test data;
 Run Test_Framework workflow from the REFramework
 You will have to upload a single zip file, no larger than 15mb.
 
-
-
 In this exercise, you will create a UiPath automation that performs the steps below.
 To achieve this, you will use the REFrameWork as the starting template and follow the UiPath development best practices.
 
