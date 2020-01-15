@@ -1,0 +1,37 @@
+{
+  "name": "CollectWorkItems",
+  "description": "Collect Work Items",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Credentials.Activities": "[1.1.6479.13204]",
+    "UiPath.Excel.Activities": "[2.7.2]",
+    "UiPath.Mail.Activities": "[1.8.0-preview]",
+    "UiPath.System.Activities": "[19.12.0-preview]",
+    "UiPath.UIAutomation.Activities": "[19.12.0-preview]"
+  },
+  "webServices": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "19.10.2.0",
+  "projectVersion": "1.0.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "fileInfos": []
+  },
+  "expressionLanguage": "VisualBasic"
+}
